@@ -1,0 +1,21 @@
+{
+    "name": "Purple Daze",
+    "background": "#161926",
+    "black": "#1A1A1A",
+    "blue": "#9D65FF",
+    "cyan": "#9D65FF",
+    "foreground": "#C4C5B5",
+    "green": "#58EBD7",
+    "purple": "#FF65F7",
+    "red": "#F4005F",
+    "white": "#C4C5B5",
+    "yellow": "#FA8419",
+    "brightBlack": "#625E4C",
+    "brightBlue": "#9D65FF",
+    "brightCyan": "#9D65FF",
+    "brightGreen": "#9AEFEA",
+    "brightPurple": "#FF65F7",
+    "brightRed": "#F4005F",
+    "brightWhite": "#F6F6EF",
+    "brightYellow": "#FA8419"
+}
