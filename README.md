@@ -1,4 +1,3 @@
-<!-- TODO: Utilize same structure as the vscode-theme repo with icon on top and descriptive steps -->
 <h1 align="center">
   <br>
   <img src="assets/img/icon.png" alt="404 theme" width="100">
